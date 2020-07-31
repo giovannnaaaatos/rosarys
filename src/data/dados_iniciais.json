@@ -5,7 +5,7 @@
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#fe5f55",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "esboços básicos - início do desenho",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -14,62 +14,109 @@
           "url": "https://www.youtube.com/watch?v=lNofuW7u5Ec"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "como desenhar rostos?",
+          "url": "https://www.youtube.com/watch?v=P2g0LheCcpQ"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "como desenhar rostos? mais estilos!",
+          "url": "https://www.youtube.com/watch?v=jfl8N5pPAVU"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "você consegue desenhar em todos os ângulos? ",
+          "url": "https://www.youtube.com/watch?v=EW5MGX6aVZk"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "desenho gestual - esboço de corpo",
+          "url": "https://www.youtube.com/watch?v=74HR59yFZ7Y"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "proporções do desenho",
+          "url": "https://www.youtube.com/watch?v=Ns4Jd9RBydg"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "anatomia - dicas de proporções",
+          "url": "https://www.youtube.com/watch?v=xFuCRANBY6I&t=295s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "corpo masculino, sabe as diferenças pro feminino?",
+          "url": "https://www.youtube.com/watch?v=hRVEHjAM_wo"
+        },
+        
+       {
+          "titulo": "corpo feminino, sabe as diferenças pro masculino?",
+          "url": "https://www.youtube.com/watch?v=2OHMBSwXXp0"
+        },
+        
+        {
+          "titulo": "roupas e dobras",
+          "url": "https://www.youtube.com/watch?v=NyVSAVo63v8"
+        },
+
+        {
+          "titulo": "figurino, combinações",
+          "url": "https://www.youtube.com/watch?v=IwdjScYUBJI"
+        },
+
+        {
+          "titulo": "roupas para iniciantes!",
+          "url": "https://www.youtube.com/watch?v=b2BvoeEs1WM"
+        },
+
+        {
+          "titulo": "as roupas!",
+          "url": "https://www.youtube.com/watch?v=Vjn-Jm02vTw"
+        }
+        
       ]
     },
     {
       "titulo": "materiais de desenho!",
       "cor": "#EFC88B",
       "link_extra": {
-        "text": "por...",
+        "text": "você tem tudo necessário aí?",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "materiais de desenho!",
+          "url": "https://www.youtube.com/watch?v=rOmgcjkTI_o&t=14s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "pra você iniciante!",
+          "url": "https://www.youtube.com/watch?v=QzN2O1JjlNU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "esses são mais acessíveis!",
+          "url": "https://www.youtube.com/watch?v=BCHANaYc-rc"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "o básico do iniciante!",
+          "url": "https://www.youtube.com/watch?v=5HTZqLfwPzM"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "pintura acrílica",
+          "url": "https://www.youtube.com/watch?v=Ye9CYrH2RAo"
+        },
+
+        {
+          "titulo": "pintura aquarela - básico",
+          "url": "https://www.youtube.com/watch?v=JP1tI_X859k"
+        },
+
+        {
+          "titulo": "aquarela - como começar?",
+          "url": "https://www.youtube.com/watch?v=jv0Nrr06mt8&t=381s"
+        },
+
+        {
+          "titulo": "lápis aquarelável! - como usar?",
+          "url": "https://www.youtube.com/watch?v=RDWp2yHBGMQ"
+
+        },
+
+        {
+          "titulo": "materiais de iniciantes!",
+          "url":"https://www.youtube.com/watch?v=uyWP3PfEhoo"
         }
       ]
     },
@@ -82,42 +129,144 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "lineart no papel!",
+          "url": "https://www.youtube.com/watch?v=_RBqgAIeNwc&t=20s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "lineart digital!",
+          "url": "https://www.youtube.com/watch?v=tmzfaSOVfFo"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "sua lineart é perfeita?",
+          "url": "https://www.youtube.com/watch?v=Zl7E-2TT_vY"
         },
+
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "tutorial lineart!",
+          "url": "https://www.youtube.com/watch?v=SVGD_GcXdiQ"
+        },
+
+        {
+          "titulo": "segredinhos da lineart!",
+          "url": "https://www.youtube.com/watch?v=g94Z1Emccr8&t=343s"
+        },
+
+        {
+          "titulo": "você faz certo?",
+          "url": "https://www.youtube.com/watch?v=N_Z79uobWHM"
+        },
+
+        {
+          "titulo": "mais sobre lineart!",
+          "url": "https://www.youtube.com/watch?v=6MuOt6EfJ_w"
         }
       ]
     },
     {
-      "titulo": "a pintura digital!",
+      "titulo": "a pintura! (incluindo digital)",
       "cor": "#FE5F55",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "pintura com tinta óleo!",
+          "url": "https://www.youtube.com/watch?v=bO4sMCfrZA0"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "tinta óleo e acrílica",
+          "url": "https://www.youtube.com/watch?v=b2Ev_91V-Pg"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "paisagens com tinta acrílica",
+          "url": "https://www.youtube.com/watch?v=rSRutae1Phs"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "retrato com tinta óleo",
+          "url": "https://www.youtube.com/watch?v=UtQYTGIbWCI"
+        },
+
+        {
+          "titulo": "paisagens com tinta acrílica",
+          "url": "https://www.youtube.com/watch?v=rSRutae1Phs"
+        },
+
+        {
+          "titulo": "óleo  e acrílica, tem alguma melhor?",
+          "url": "https://www.youtube.com/watch?v=wq1yCKcgfJE"
+        },
+
+        {
+          "titulo": "pintando com aquarela!",
+          "url": "https://www.youtube.com/watch?v=BT1ltIMhbwE"
+        },
+
+        {
+          "titulo": "sobre tintas!",
+          "url": "https://www.youtube.com/watch?v=4idGGfFgI2s&t=404s"
+        },
+
+        {
+          "titulo": "olhos - pintura",
+          "url": "https://www.youtube.com/watch?v=EfeJEk9pNJ8"
+        },
+
+        {
+          "titulo": "superfícies para desenho",
+          "url": "https://www.youtube.com/watch?v=iZGgF4fEtXE"
+        },
+
+        {
+          "titulo": "pintando pele com 12 cores!",
+          "url": "https://www.youtube.com/watch?v=o26pxWGU9Wc&t=175s"
+        },
+
+        {
+          "titulo": "como usar lápis de cor?",
+          "url": "https://www.youtube.com/watch?v=j9T4NAnIiVc"
+        },
+
+        {
+          "titulo": "lápis de cor branco, como se usa?",
+          "url": "https://www.youtube.com/watch?v=jTwDZ2v0kr8"
+        },
+
+        {
+          "titulo": "dicas de ouro para colorir!",
+          "url": "https://www.youtube.com/watch?v=NibFwfG93Xg"
+        },
+
+        {
+          "titulo": "pintura digital!",
+          "url": "https://www.youtube.com/watch?v=j3_A3BykMtU"
+        },
+
+        {
+          "titulo": "cores e paletas!",
+          "url": "https://www.youtube.com/watch?v=QWWUdzclftE"
+        },
+
+        {
+          "titulo": "ilustração!",
+          "url": "https://www.youtube.com/watch?v=ywkytGkMtg0&t=391s"
+        },
+        
+        {
+          "titulo": "para iniciantes!",
+          "url": "https://www.youtube.com/watch?v=9ngv4dM31LU&t=201s"
+        },
+
+        {
+          "titulo": "olhos de anime!",
+          "url": "https://www.youtube.com/watch?v=dUfYpVAJDO4"
+        },
+
+        {
+          "titulo": "cabelo curto!",
+          "url": "https://www.youtube.com/watch?v=4G1U_tDZWgo"
+        },
+
+
+        {
+          "titulo": "cabelos!",
+          "url": "https://www.youtube.com/watch?v=Jx5E-tsFOAk"
         }
       ]
     },
@@ -125,29 +274,80 @@
       "titulo": "verdades sobre desenho que você precisa ouvir!",
       "cor": "#EFC88B",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "por CrasConversaOficial",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "o começo",
+          "url": "https://www.youtube.com/watch?v=ZRf4D4vXSE8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "por que você falha?",
+          "url": "https://www.youtube.com/watch?v=AkYJEiR19UU"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "preguiça de desenhar",
+          "url": "https://www.youtube.com/watch?v=57uhtpxx_RY"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "o desenhista amador",
+          "url": "https://www.youtube.com/watch?v=MdkQvs7JRBE"
         },
+
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "o denhista descartável, você é um deles?",
+          "url": "https://www.youtube.com/watch?v=DZd13LTAihg"
+        },
+
+        {
+          "titulo": "preconceitos no desenho",
+          "url": "https://www.youtube.com/watch?v=rOB6PpVFQ-0"
+        },
+
+        {
+          "titulo": "existe talento pra desenhar?",
+          "url": "https://www.youtube.com/watch?v=tSCvSVLjfv4"
+        },
+
+        {
+          "titulo": "cursos online de desenho?",
+          "url": "https://www.youtube.com/watch?v=pF3XyGeycJs"
+        },
+
+        {
+          "titulo": "desista de desenhar!",
+          "url": "https://www.youtube.com/watch?v=Lp9GCTi6gzQ&t=778s"
+        },
+
+        {
+          "titulo": "há estilos mais respeitados que outros?",
+          "url": "https://www.youtube.com/watch?v=BUqxvJw2K_c"
+        },
+
+        {
+          "titulo": "estilo x erros",
+          "url": "https://www.youtube.com/watch?v=_kBSagOBDAE"
+        },
+
+        {
+          "titulo": "coitadinho x vitimista",
+          "url": "https://www.youtube.com/watch?v=hjepVb1eAxs"
+        },
+
+        {
+          "titulo": "por que alguns desistem de desenhar?",
+          "url": "https://www.youtube.com/watch?v=jUlrv1_8QDw"
+        },
+
+        {
+          "titulo": "o desenhista tóxico",
+          "url": "https://www.youtube.com/watch?v=hjepVb1eAxs"
+        },
+
+        {
+          "titulo": "vai desistir?",
+          "url": "https://www.youtube.com/watch?v=J2T8wWHDHhU"
         }
       ]
     },
