@@ -76,6 +76,7 @@ function CadastroCategoria() {
           value={values.cor}
           onChange={handleChange}
         />
+
         {/* <div>
           <label>
             Cor:
