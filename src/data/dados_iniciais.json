@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "como fazer esboços!",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Como fazer esboços!",
+      "link": "",
       "cor": "#fe5f55",
       "link_extra": {
-        "text": "esboços básicos - início do desenho",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Esboços básicos - início do desenho",
+        "url": ""
       },
       "videos": [
         {
@@ -70,10 +70,10 @@
       ]
     },
     {
-      "titulo": "materiais de desenho!",
+      "titulo": "Materiais de desenho!",
       "cor": "#EFC88B",
       "link_extra": {
-        "text": "você tem tudo necessário aí?",
+        "text": "Você tem tudo necessário aí?",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -121,11 +121,11 @@
       ]
     },
     {
-      "titulo": "como fazer lineart?",
+      "titulo": "Como fazer lineart?",
       "cor": "#FE5F55",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "titulo": "a pintura! (incluindo digital)",
+      "titulo": "A pintura! (incluindo digital)",
       "cor": "#FE5F55",
       "videos": [
         {
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "titulo": "verdades sobre desenho que você precisa ouvir!",
+      "titulo": "Verdades sobre desenho que você precisa ouvir!",
       "cor": "#EFC88B",
       "link_extra": {
         "text": "por CrasConversaOficial",
@@ -352,32 +352,32 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "",
       "cor": "#FE5F55",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "",
+          "url": ""
         }
       ]
     }
